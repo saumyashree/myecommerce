@@ -7,7 +7,6 @@ import com.myecommerce.dto.CategoryDTO;
 import com.myecommerce.dto.ProductDTO;
 import com.myecommerce.exception.BusinessException;
 import com.myecommerce.service.ProductService;
-import com.myecommerce.service.impl.Dummy;
 import com.myecommerce.service.impl.ProductServiceImpl;
 
 public class ProductMain {

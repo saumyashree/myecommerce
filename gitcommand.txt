@@ -1,0 +1,11 @@
+git remote set-url origin https:/saumyashree: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@github.com/saumyashree/myecommerce.git
+
+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
+
+
+
+git remote add origin  https://github.com/saumyashree/myecommerce.git
+
+git push -u origin master
+git init
+git commit -m "initial commit"
